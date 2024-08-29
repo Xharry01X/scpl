@@ -179,3 +179,8 @@ Array [
     ],
   },
 ]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 20,2 to 120,1: Parsing error around here]

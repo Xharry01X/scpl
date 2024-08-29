@@ -311,3 +311,8 @@ and escapes       ",
     ],
   },
 ]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 17,2 to 117,1: Parsing error around here]

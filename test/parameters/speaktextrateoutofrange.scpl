@@ -49,3 +49,8 @@ Array [
     ],
   },
 ]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 3,2 to 103,1: Parsing error around here]

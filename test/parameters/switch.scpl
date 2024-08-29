@@ -87,3 +87,8 @@ Array [
     ],
   },
 ]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 4,2 to 104,1: Parsing error around here]

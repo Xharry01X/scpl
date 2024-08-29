@@ -4,3 +4,8 @@ calculate ^"not valid"
 
 Output Error:
 [Error: Error from 1,11 to 101,1: Parsing error around here]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 1,11 to 101,1: Parsing error around here]

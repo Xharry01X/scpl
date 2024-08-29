@@ -4,3 +4,8 @@ v:a = v:b
 
 Output Error:
 [Error: Error from 1,8 to 101,1: Parsing error around here]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 1,8 to 101,1: Parsing error around here]

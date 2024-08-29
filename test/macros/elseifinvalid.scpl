@@ -137,3 +137,8 @@ Array [
     ],
   },
 ]
+
+@!ShouldEqual --------------------------------
+
+Output Error:
+[Error: Error from 11,2 to 111,1: Parsing error around here]
